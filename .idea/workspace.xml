@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9c46cf4-dc70-42ee-a3b1-901123e31325" name="Changes" comment="added ai" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/my-app/src/app/page.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="34HT15FYJSP1UohFxszRnSmAaRT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zaven/Desktop/Shat pox&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\zaven\\Desktop\\Shat pox\\my-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zaven\Desktop\Shat pox\my-app\prisma" />
+      <recent name="C:\Users\zaven\Desktop\Shat pox" />
+      <recent name="C:\Users\zaven\Desktop\Shat pox\my-app" />
+      <recent name="C:\Users\zaven\Desktop\Shat pox\my-app\src" />
+      <recent name="C:\Users\zaven\Desktop\Shat pox\my-app\src\app\(main)" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9c46cf4-dc70-42ee-a3b1-901123e31325" name="Changes" comment="" />
+      <created>1760869278507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760869278507</updated>
+      <workItem from="1760869279596" duration="280000" />
+      <workItem from="1760869562932" duration="856000" />
+      <workItem from="1760870759037" duration="78000" />
+      <workItem from="1760870958842" duration="327000" />
+      <workItem from="1760872178782" duration="6592000" />
+      <workItem from="1760898562991" duration="392000" />
+      <workItem from="1760899576341" duration="1101000" />
+      <workItem from="1761140912170" duration="98000" />
+      <workItem from="1761141040744" duration="3085000" />
+      <workItem from="1761156201364" duration="123000" />
+      <workItem from="1761156425543" duration="409000" />
+      <workItem from="1761217670966" duration="9907000" />
+      <workItem from="1761318891948" duration="157000" />
+      <workItem from="1761319066292" duration="9208000" />
+      <workItem from="1761381000719" duration="1933000" />
+      <workItem from="1761388599307" duration="1000" />
+      <workItem from="1761403564604" duration="18000" />
+      <workItem from="1761642204760" duration="101000" />
+      <workItem from="1761651653406" duration="4851000" />
+      <workItem from="1761744231838" duration="11118000" />
+      <workItem from="1761821066496" duration="230000" />
+      <workItem from="1761821334143" duration="172000" />
+      <workItem from="1761821518885" duration="5442000" />
+      <workItem from="1761847048920" duration="6296000" />
+      <workItem from="1761853462717" duration="425000" />
+      <workItem from="1761896393553" duration="5000" />
+      <workItem from="1761896554254" duration="2386000" />
+      <workItem from="1761899791585" duration="446000" />
+      <workItem from="1761901064858" duration="3361000" />
+      <workItem from="1761906844402" duration="2933000" />
+      <workItem from="1762278012222" duration="1329000" />
+      <workItem from="1762361857638" duration="352000" />
+      <workItem from="1762362291635" duration="670000" />
+      <workItem from="1762363205481" duration="2115000" />
+      <workItem from="1762369734500" duration="6908000" />
+      <workItem from="1762376805682" duration="1772000" />
+      <workItem from="1762414880049" duration="2521000" />
+    </task>
+    <task id="LOCAL-00001" summary="default installing">
+      <option name="closed" value="true" />
+      <created>1760870138816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760870138816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added main page">
+      <option name="closed" value="true" />
+      <created>1760883744470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760883744470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added auth">
+      <option name="closed" value="true" />
+      <created>1761224966199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761224966199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added react-icons dependency">
+      <option name="closed" value="true" />
+      <created>1761319547052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761319547052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New ai Input">
+      <option name="closed" value="true" />
+      <created>1761328367438</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761328367438</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed problem with dependencies">
+      <option name="closed" value="true" />
+      <created>1761329366762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761329366762</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added logic for sign and sign up">
+      <option name="closed" value="true" />
+      <created>1761851507669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761851507669</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed small errors">
+      <option name="closed" value="true" />
+      <created>1761852910812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761852910812</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed small errors">
+      <option name="closed" value="true" />
+      <created>1761898606345</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761898606345</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1761908102004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761908102004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added ai">
+      <option name="closed" value="true" />
+      <created>1762417021257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762417021257</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:prisma" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:next" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="default installing" />
+    <MESSAGE value="Added main page" />
+    <MESSAGE value="Added auth" />
+    <MESSAGE value="Added react-icons dependency" />
+    <MESSAGE value="New ai Input" />
+    <MESSAGE value="fixed problem with dependencies" />
+    <MESSAGE value="Added logic for sign and sign up" />
+    <MESSAGE value="fixed small errors" />
+    <MESSAGE value="test" />
+    <MESSAGE value="added ai" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ai" />
+  </component>
+</project>
