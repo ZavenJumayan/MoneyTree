@@ -1,0 +1,56 @@
+const STOPWORDS = new Set([
+    "a",
+    "an",
+    "and",
+    "are",
+    "as",
+    "at",
+    "be",
+    "but",
+    "by",
+    "for",
+    "if",
+    "in",
+    "into",
+    "is",
+    "it",
+    "no",
+    "not",
+    "of",
+    "on",
+    "or",
+    "such",
+    "that",
+    "the",
+    "their",
+    "then",
+    "there",
+    "these",
+    "they",
+    "this",
+    "to",
+    "was",
+    "will",
+    "with",
+    "i",
+    "me",
+    "my",
+    "we",
+    "our",
+    "you",
+    "your",
+    "he",
+    "she",
+    "them",
+    "his",
+    "her",
+    "it's",
+]);
+
+export function tokenize(text: string): string[] {
+    return text
+        .toLowerCase()
+        .replace(/[\p{P}\p{S}]/gu, " ")
+        .split(/\s+/)
+        .filter((w) => w.length > 0 && !STOPWORDS.has(w));
+}
