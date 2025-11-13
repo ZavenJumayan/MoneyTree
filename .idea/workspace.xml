@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9c46cf4-dc70-42ee-a3b1-901123e31325" name="Changes" comment="added ai" />
+    <list default="true" id="e9c46cf4-dc70-42ee-a3b1-901123e31325" name="Changes" comment="added ai">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +122,10 @@
       <workItem from="1762376805682" duration="1772000" />
       <workItem from="1762414880049" duration="2950000" />
       <workItem from="1762417894565" duration="3000" />
+      <workItem from="1762418045055" duration="331000" />
+      <workItem from="1762443945970" duration="2033000" />
+      <workItem from="1762714724739" duration="930000" />
+      <workItem from="1763017530308" duration="211000" />
     </task>
     <task id="LOCAL-00001" summary="default installing">
       <option name="closed" value="true" />
