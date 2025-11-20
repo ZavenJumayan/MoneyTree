@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Wymood — AI Mood Detection App
 
-## Getting Started
+Wymood is an AI-powered mood detection web app built with **Next.js**, **React**, **TypeScript**, and **Shadcn/UI**.  
+Users enter a short text, and the app analyzes the emotional tone (positive, negative, neutral, stressed, etc.) using a custom AI-powered API route.
 
-First, run the development server:
+This project demonstrates modern full-stack capabilities inside the Next.js App Router while focusing strongly on **front-end development, UI/UX, component design, and client–server communication**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🔍 **AI Mood Analysis**  
+  Detects sentiment and emotional tone from short text input.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🖥️ **Modern UI with Shadcn/UI**  
+  Clean and responsive interface built with Shadcn components + Tailwind CSS.
 
-## Learn More
+- ⚡ **Next.js App Router**  
+  Uses server and client components, route handlers, and edge-friendly architecture.
 
-To learn more about Next.js, take a look at the following resources:
+- 🔐 **API Routes for Mood Prediction**  
+  Custom API handler that processes user prompts and returns mood classification.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🗄️ **Neon PostgreSQL Database**  
+  Stores user submissions and mood results (optional feature).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🚀 **Deployed on Vercel**  
+  Production-ready with automatic builds and environment variable support.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Frontend:**  
+- Next.js 14 (App Router)  
+- React  
+- TypeScript  
+- Shadcn/UI  
+- Tailwind CSS  
+
+**Backend:**  
+- Next.js Route Handlers  
+- Vercel AI SDK  
+- Neon PostgreSQL (Prisma or direct SQL)
+
+**Deployment:**  
+- Vercel  
+
+---
+
